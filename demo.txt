@@ -1,0 +1,4 @@
+Demo kiểm tra tính toàn vẹn dữ liệu cho bài tập nhóm MD5.
+Bước 1: tính hash tệp gốc.
+Bước 2: sửa một ký tự rồi tính hash lần nữa.
+Lưu ý: MD5 chỉ dùng minh họa; không dùng để bảo vệ dữ liệu trong ứng dụng mới.
